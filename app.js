@@ -30,3 +30,4 @@ for (var i = 0; i < squares.length; i++){
 var pickedColor = colors[3];
 var colorDisplay = document.getElementById("colorDisplay");
 colorDisplay.textContent = pickedColor;
+// test
